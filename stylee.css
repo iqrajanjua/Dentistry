@@ -1,0 +1,362 @@
+.navbar-custom {
+    background-color: #2DB8DA;
+}
+
+.casestudybtn {
+    color: white;
+}
+
+.casestudybtn:hover {
+    background-color: white;
+    color: #2DB8DA;
+}
+
+.cardfb {
+    font-size: larger;
+    color: #2DB8DA;
+}
+
+.faq {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.modalbtn {
+    background-color: #2DB8DA;
+    color: white;
+}
+
+.modalbtn:hover {
+    background-color: white;
+    color: #2DB8DA;
+}
+
+.bleeding {
+    height: 400px;
+    width: 1200px;
+}
+
+.htwo:hover {
+    color: #2DB8DA;
+}
+
+.htwo {
+    font-style: oblique;
+}
+
+.para {
+    font-family: sans-serif;
+}
+
+.chart {
+    width: 400px;
+    height: 250px;
+}
+
+.sensitive {
+    height: 400px;
+    width: 1200px;
+}
+
+.sen {
+    height: 500px;
+    width: 1200px;
+}
+
+.senani {
+    height: 400px;
+    width: 600px;
+}
+
+.casestudy {
+    height: 208px;
+}
+
+.casestudyoneimg {
+    margin-left: 100px;
+}
+
+.video {
+    width: 450px;
+    height: 300px;
+}
+
+.img{height: 200px;}
+
+.casecard{transition: all 0.3s;}
+
+.casecard:hover{transform:scale(1.15)}
+
+.casestudycustom{height: 550px;}
+
+@media only screen and (max-width: 514px) and (min-width:300px) {
+    .img {
+        width: 500px;
+        height: 300px;
+    }
+
+    .map {
+        width: 300px;
+    }
+
+    .bleeding {
+        height: 200px;
+    }
+
+    .chart {
+        width: 390px;
+    }
+
+    .sensitive {
+        height: 200px;
+    }
+
+    .sen {
+        height: 300px;
+    }
+
+    .senani {
+        height: 300px;
+    }
+
+    .casestudyoneimg {
+        margin-left: 0px;
+    }
+
+    .faq {
+        margin-left: 150px;
+        margin-top: 0px;
+    }
+
+    .video {
+        width: 300px;
+        height: 200px;
+    
+    }
+
+
+}
+
+
+
+@media only screen and (max-width: 296px) {
+    .map {
+        width: 230px;
+    }
+
+    .img {
+        width: 500px;
+    }
+
+    .bleeding {
+        height: 200px;
+    }
+
+    .sensitive {
+        height: 200px;
+    }
+
+    .sen {
+        height: 200px;
+    }
+
+    .senani {
+        height: 200px;
+    }
+
+    .casestudyoneimg {
+        margin-left: 0px;
+    }
+
+    .faq {
+        margin-top: 0px;
+    }
+
+    .video {
+        width: 220px;
+        height: 200px;
+        margin-top: 30px;
+    }
+
+}
+
+
+
+
+@media only screen and (max-width:991px) and (min-width:500px) {
+    .img {
+        width: 630px;
+    }
+
+    .map {
+        width: 450px;
+    }
+
+    .chart {
+        width: 500px;
+        height: 300px;
+    }
+
+    .sensitive {
+        height: 300px;
+    }
+
+    .sen {
+        width: 700px;
+        height: 300px;
+    }
+
+    .ani {
+        margin-top: 70px;
+    }
+
+    .casestudycardtwo {
+        height: 293px;
+    }
+
+    .casestudy {
+        height: 190px;
+    }
+
+    .casestudyoneimg {
+        margin-bottom: 10px;
+    }
+
+    .casestudyoneimg {
+        margin-left: 0px;
+    }
+
+    .faq {
+        margin: 80px;
+    }
+
+    .video {
+        width: 400px;
+        height: 250px;
+        margin-left: 20px;
+    }
+
+}
+
+
+
+@media only screen and (max-width:1024px) and (min-width:991px) {
+    .img {
+        height: 230px;
+    }
+
+    .gumm {
+        height: 200px;
+    }
+
+    .senchart {
+        height: 450px;
+        width: 1000px;
+    }
+
+    .senani {
+        height: 400px;
+    }
+
+    .casestudy {
+        height: 150px;
+    }
+
+    .casestudycard {
+        height: 175px;
+    }
+
+    .video {
+        width: 450px;
+        height: 300px;
+        margin-left: 5px;
+        margin-top: 30px;
+    }
+
+}
+
+.footer-clean {
+    display: block;
+    padding: 50px 0;
+    background-color: #2DB8DA;
+    color: aliceblue;
+  }
+
+  .footer-clean h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .footer-clean ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .footer-clean ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: 0.8;
+  }
+
+  .footer-clean ul a:hover {
+    opacity: 1;
+  }
+
+  .footer-clean .item.social {
+    text-align: right;
+  }
+
+  @media (max-width:767px) {
+    .footer-clean .item {
+      text-align: center;
+      padding-bottom: 20px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .footer-clean .item.social {
+      text-align: center;
+    }
+  }
+
+  .footer-clean .item.social>a {
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    margin-top: 22px;
+    color: inherit;
+    opacity: 0.75;
+  }
+
+  .footer-clean .item.social>a:hover {
+    opacity: 0.9;
+  }
+
+  @media (max-width:991px) {
+    .footer-clean .item.social>a {
+      margin-top: 40px;
+    }
+  }
+
+  @media (max-width:767px) {
+    .footer-clean .item.social>a {
+      margin-top: 10px;
+    }
+  }
+
+  .footer-clean .copyright {
+
+    margin-top: 12px;
+
+  }
